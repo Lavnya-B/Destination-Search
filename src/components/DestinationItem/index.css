@@ -1,0 +1,12 @@
+.destination-item-con {
+  margin: 0px 20px 20px 0px;
+  width: 200px;
+}
+.destination-image {
+  width: 200px;
+}
+.destination-name {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 500;
+}
